@@ -1,0 +1,6 @@
+dotenv>=1.0.0
+python-telegram-bot
+spacy
+python-dateutil  
+geopy
+timezonefinder
